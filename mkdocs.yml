@@ -2,9 +2,12 @@ site_name: Marco Bassetto
 site_url: https://m-bassetto.github.io
 nav:
     - Home: index.md
+    - Curriculum Vitae: files/cv.pdf
     - Research: research/index.md
     - Courses:
         - 8702 Monetary Economics: teaching/8702/8702.md
         
 theme:
     name: cinder
+    
+extra_css: [extra.css]

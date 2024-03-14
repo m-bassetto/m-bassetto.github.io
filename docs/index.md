@@ -8,6 +8,4 @@
 
 Minneapolis, MN 55401
 
-email: bassetto@nber.org
-
-###[Curriculum Vitae](/files/cv.pdf)
+email: bassetto![AT](/images/at.gif)nber.org
