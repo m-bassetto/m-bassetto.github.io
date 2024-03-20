@@ -6,7 +6,7 @@
 
 - [Published papers, including sources to previous working paper versions](/research/published)
 
-- [Software code used in my publications](https://users.nber.org/%7Ebassetto/software/software.html)
+- [Software code used in my publications](/research/software/software)
 
 ### By topic
 
