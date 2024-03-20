@@ -10,10 +10,10 @@
 
 ### By topic
 
-- [Expository pieces](https://users.nber.org/%7Ebassetto/expository.html)
+- [Expository pieces](/research/expository)
 
-- [Government policy design (including work on the fiscal theory of the price level)](https://users.nber.org/%7Ebassetto/design.html)
+- [Government policy design (including work on the fiscal theory of the price level)](/research/design)
 
-- [Political economy](https://users.nber.org/%7Ebassetto/political.html)
+- [Political economy](/research/political)
 
-- [Other topics (inflation forecasting, entrepreneurship, sovereign debt,...)](https://users.nber.org/%7Ebassetto/misc.html)
+- [Other topics (inflation forecasting, entrepreneurship, sovereign debt,...)](/research/misc)
