@@ -21,4 +21,4 @@ Working Paper, Federal Reserve Bank of Chicago,  no. 2016-11
 ### [What is the Relationship between Large Deficits and Inflation in Industrialized Countries?](https://www.chicagofed.org/publications/economic-perspectives/2010/3qbassetto-butters) (joint with R. Andrew Butters)
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2010, vol. 34, n.3, pp.83-100. **Open access.**
 
-[Software code used in the papers above](/research/software/software)
+### [Software code used in the papers above](/research/software/software)
