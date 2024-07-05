@@ -24,4 +24,4 @@ Excel spreadsheet that contains emigration data sent to us by Anna Lööf  at Eu
 
 Stata code that handles the Eurobarometer survey data: [eu12migration.do](code/eu12migration.do)
 
-Note: the Eurobarometer data are not freely available, so we can not include them here. They can be downloaded from the archives mentioned here: [http://www.gesis.org/en/data_service/eurobarometer/staff/archives.htm](http://www.gesis.org/en/eurobarometer/home/)
+Note: the Eurobarometer data are not freely available, so we cannot include them here.
