@@ -46,7 +46,7 @@ Free to download using the link above.
 ### [Political Economy of Taxation in an Overlapping-Generations Economy](http://dx.doi.org/10.1016/j.red.2007.06.002)
 *Review of Economic Dynamics*, 2008, vol. 11, n.1, pp.18-43.
 
-An earlier version is available as [Federal Reserve Bank of Minneapolis Discussion Paper n. 133](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=793), 1999.
+An earlier version is available as [Federal Reserve Bank of Minneapolis Discussion Paper n. 133](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy), 1999.
 
 [Code](https://m-bassetto.github.io/research/software/olg/softwareolg/)
 
