@@ -34,7 +34,7 @@ Free to download using the link above.
 ### [Optimal Fiscal Policy with Heterogeneous Agents](http://onlinelibrary.wiley.com/doi/10.3982/QE362/abstract)
 *Quantitative Economics*, 2014, vol. 5, n.3, pp. 675-704. **Open access.**
 
-[Appendix for online publication](http://www.qeconomics.org/upcoming/362/QE362SUPP.pdf)
+[Appendix for online publication](https://qeconomics.org/supp/362/supplement.pdf)
 
 [Working paper version](/research/opttax/combinedwpversion.pdf) (contains material that was not included in the published version)
 
