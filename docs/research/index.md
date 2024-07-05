@@ -14,6 +14,6 @@
 
 - [Government policy design (including work on the fiscal theory of the price level)](/research/design)
 
-- [Political economy](/research/political)
+- [Political economy and optimal taxation](/research/political)
 
 - [Other topics (inflation forecasting, entrepreneurship, sovereign debt,...)](/research/misc)
