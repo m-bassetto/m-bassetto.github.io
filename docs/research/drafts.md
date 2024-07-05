@@ -6,9 +6,6 @@ Staff Report, Federal Reserve Bank of Minneapolis,  no. 641
 ### [Monetary/Fiscal Interaction with Forty Budget Constraints](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with Gherardo Caracciolo)
 Working Paper, Federal Reserve Bank of Minneapolis,  no. 788
 
-### [A Ramsey Theory of Financial Distortions](https://www.ifs.org.uk/publications/15314) (joint with Wei Cui)
-IFS Working Paper W21/05
-
 ### [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376) (joint with Zhen Huo and José-Víctor Ríos-Rull)
 NBER Working Paper no. 25376
 
