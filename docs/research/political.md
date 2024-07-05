@@ -70,4 +70,4 @@ An older version is available as [NBER Working Paper n. 11030](http://papers.nbe
 
 [Preprint version](/research/ricardo/debtirr.pdf)
 
-[Software code used in the papers above](/research/software/software)
+###[Software code used in the papers above](/research/software/software)
