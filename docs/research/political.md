@@ -1,6 +1,7 @@
 ## Papers on political economy and optimal taxation
 
-### [Monetary/Fiscal Interaction with Forty Budget Constraints](/research/40budgetconstraints/fortybc.pdf) (joint with Gherardo Caracciolo)
+### [Monetary/Fiscal Interaction with Forty Budget Constraints](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with Gherardo Caracciolo)
+Working Paper, Federal Reserve Bank of Minneapolis,  no. 788
 
 ### [A Ramsey Theory of Financial Distortions](https://www.ifs.org.uk/publications/15314) (joint with Wei Cui)
 IFS Working Paper W21/05
