@@ -80,7 +80,7 @@ A slightly older version is available as Working Paper, Federal Reserve Bank of 
 ### [Political Economy of Taxation in an Overlapping-Generations Economy](http://dx.doi.org/10.1016/j.red.2007.06.002)
 *Review of Economic Dynamics*, 2008, vol. 11, n.1, pp.18-43.
 
-An earlier version is available as [Federal Reserve Bank of Minneapolis Discussion Paper n. 133](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=793), 1999.
+An earlier version is available as [Federal Reserve Bank of Minneapolis Discussion Paper n. 133](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy), 1999.
 
 ### [Government Investment and the European Stability and Growth Pact](http://www.chicagofed.org/digital_assets/publications/economic_perspectives/2007/ep_3qtr2007_part2_Bassetto_etal.pdf) (joint with Vadym Lepetyuk)
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n.3, pp.33-43. **Open access.**
