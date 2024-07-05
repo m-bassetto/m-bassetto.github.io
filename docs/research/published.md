@@ -48,6 +48,8 @@ An older version is available as [Working Paper, Federal Reserve Bank of Chicago
 ### [Credit Crunches and Credit Allocation in a Model of Entrepreneurship](http://dx.doi.org/10.1016/j.red.2014.08.003) (joint with Marco Cagetti and Mariacristina De Nardi)
 *Review of Economic Dynamics*, special issue on Money, Credit, and Financial Frictions, 2015, vol. 18, n.1., pp.53-76. **Open access.**
 
+[Code](http://ideas.repec.org/c/red/ccodes/14-53.html)
+
 ### [Optimal Fiscal Policy with Heterogeneous Agents](http://onlinelibrary.wiley.com/doi/10.3982/QE362/abstract)
 *Quantitative Economics*, 2014, vol. 5, n.3, pp. 675-704. **Open access.**
 
