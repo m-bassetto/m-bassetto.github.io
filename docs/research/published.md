@@ -107,6 +107,8 @@ An earlier version (with some typos) is available as Working Paper, Federal Rese
 
 An older version is available as [NBER Working Paper n. 11030](http://papers.nber.org/papers/W11030), 2005.
 
+[Code](https://m-bassetto.github.io/research/software/budget/softwarebudget/)
+
 ### [Fiscal Policy and Price Stability: the Case of Italy 1992-98](http://www.chicagofed.org/webpages/publications/chicago_fed_letter/2006/december_233.cfm)
 *Chicago Fed Letter*, 2006, n.233. **Open access.**
 
