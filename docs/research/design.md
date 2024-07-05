@@ -15,7 +15,7 @@ Free to download using the link above.
 NBER Working Paper no. 25376
 
 ### [Forward Guidance: Communication, Commitment, or Both?](https://doi.org/10.1016/j.jmoneco.2019.08.015)
-*Journal of Monetary Economics*, 2019, forthcoming
+*Journal of Monetary Economics*, 2019, vol. 108, pp.69-86.
 
 A version with some typos is available as [Working Paper, Federal Reserve Bank of Chicago,  no. 2019-05](https://www.chicagofed.org/publications/working-papers/2019/2019-05)
 
