@@ -70,4 +70,4 @@ This is a more detailed version of the paper published in the
 ### [A Game-Theoretic View of the Fiscal Theory of the Price Level](http://www.jstor.org/stable/3081984)
 *Econometrica*, 2002, vol. 70., n.6, pp.2167-2195; an earlier version is available as Federal Reserve Bank of Minneapolis Working Paper no. 612, 2001.
 
-[Software code used in the papers above](/research/software/software)
+### [Software code used in the papers above](/research/software/software)
