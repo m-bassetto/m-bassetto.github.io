@@ -9,6 +9,11 @@ An older version is available as [Federal Reserve Bank of Minneapolis Staff Repo
 
 [Online Appendix](/research/financialrepression/Online_Appendix_Ramsey_financial_distortion.pdf)
 
+### [Discussion of ‘Fiscal Federalism and Monetary Unions’ by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://doi.org/10.1016/j.jmoneco.2023.10.005) (joint with Jason Hall)
+*Journal of Monetary Economics*, 2024, vol. 141, pp. 178-183.
+
+[Mathematica notebook containing code](https://users.nber.org/~bassetto/software/carnegierochesterdiscussion/lqeconomy_algebra.nb)
+
 ### [Mobility, Population Growth, and Public Capital Spending in the United States](https://doi.org/10.1016/j.red.2021.02.014) (joint with Leslie McGranahan)
 *Review of Economic Dynamics*, 2021, vol. 41, pp. 255-277. Special issue in honor of Alejandro Justiniano.
 
