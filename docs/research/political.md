@@ -38,6 +38,8 @@ Free to download using the link above.
 
 [Working paper version](/research/opttax/combinedwpversion.pdf) (contains material that was not included in the published version)
 
+[Code](http://qeconomics.org/supp/362/code_and_data.zip)
+
 ### [The Research Agenda: Marco Bassetto on the Quantitative Evaluation of Fiscal Policy Rules](https://www.economicdynamics.org/research-agenda/)
 *Economic Dynamics Newsletter*, 2009, vol. 10, n.2. **Open access.**
 
