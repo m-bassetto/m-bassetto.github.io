@@ -57,7 +57,7 @@ An older version is available as [Working Paper, Federal Reserve Bank of Chicago
 
 [Working paper version](/research/opttax/combinedwpversion.pdf) (contains material that was not included in the published version)
 
-[Code](http://www.qeconomics.org/upcoming/362/QE362_code_and_data.zip)
+[Code](http://qeconomics.org/supp/362/code_and_data.zip)
 
 ### [Fiscal Consequences of Paying Interest on Reserves](http://dx.doi.org/10.1111/j.1475-5890.2013.12014.x) (joint with Todd Messer)
 *Fiscal Studies*, 2013, vol. 34, n.4, pp. 413-436. **Open access.**
