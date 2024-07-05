@@ -20,7 +20,7 @@ NBER Working Paper no. 25376
 
 A significantly older version is available as [NBER Working Paper no. 16970](https://www.nber.org/papers/w16970)
 
-[Online Appendix](https://economicdynamics.org/appendix/20/20-27/onlineappendix.pdf)
+[Online Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S1094202521000181-mmc1.pdf)
 
 [Code](https://ideas.repec.org/c/red/ccodes/20-27.html)
 
