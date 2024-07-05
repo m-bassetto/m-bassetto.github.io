@@ -40,7 +40,7 @@ Free to download using the link above.
 
 [Code](http://qeconomics.org/supp/362/code_and_data.zip)
 
-### [The Research Agenda: Marco Bassetto on the Quantitative Evaluation of Fiscal Policy Rules](https://www.economicdynamics.org/research-agenda/)
+### [The Research Agenda: Marco Bassetto on the Quantitative Evaluation of Fiscal Policy Rules](https://www.economicdynamics.org/newsletter-april-2009/)
 *Economic Dynamics Newsletter*, 2009, vol. 10, n.2. **Open access.**
 
 ### [Political Economy of Taxation in an Overlapping-Generations Economy](http://dx.doi.org/10.1016/j.red.2007.06.002)
