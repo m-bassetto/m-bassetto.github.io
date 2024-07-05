@@ -117,6 +117,8 @@ An older version is available as [NBER Working Paper n. 11030](http://papers.nbe
 
 A slightly older version is available as [Federal Reserve Bank of Minneapolis Working Paper no. 624](http://minneapolisfed.org/research/wp/wp624.html), 2002.
 
+[Code](https://m-bassetto.github.io/research/software/commit/softwarecommit/)
+
 ### [On the Irrelevance of Government Debt when Taxes are Distortionary](http://dx.doi.org/doi:10.1016/j.jmoneco.2002.12.001) (joint with Narayana Kocherlakota)
 *Journal of Monetary Economics*, 2004, vol. 51, n.2, pp.299-304.
 
