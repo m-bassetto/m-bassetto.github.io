@@ -1,5 +1,11 @@
 ## Marco Bassetto - Software needed to reproduce the results in my papers
 
+### [A Ramsey Theory of Financial Distortions](https://doi.org/10.7910/DVN/KWPPHV) (joint with Wei Cui)
+*Journal of Political Economy*, forthcoming.
+
+### [Discussion of ‘Fiscal Federalism and Monetary Unions’ by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://users.nber.org/~bassetto/software/carnegierochesterdiscussion/lqeconomy_algebra.nb) (joint with Jason Hall)
+*Journal of Monetary Economics*, 2024, vol. 141, pp. 178-183.
+
 ### [Mobility, Population Growth, and Public Capital Spending in the United States](https://ideas.repec.org/c/red/ccodes/20-27.html) (joint with Leslie McGranahan)
 *Review of Economic Dynamics of Monetary Economics*, 2021, vol. 41, pp. 255-277. Special issue in honor of Alejandro Justiniano.
 
