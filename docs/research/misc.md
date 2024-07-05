@@ -12,6 +12,8 @@ Working Paper, Federal Reserve Bank of Chicago,  no. 2016-11
 ### [Credit Crunches and Credit Allocation in a Model of Entrepreneurship](https://www.chicagofed.org/publications/working-papers/2016/wp2016-11) (joint with Marco Cagetti and Mariacristina De Nardi)
 *Review of Economic Dynamics*, special issue on Money, Credit, and Financial Frictions, 2015, vol. 18, n.1., pp.53-76. **Open access.**
 
+[Code](http://ideas.repec.org/c/red/ccodes/14-53.html)
+
 ### [Fiscal Consequences of Paying Interest on Reserves](http://dx.doi.org/10.1111/j.1475-5890.2013.12014.x) (joint with Todd Messer)
 *Fiscal Studies*, 2013, vol. 34, n.4, pp. 413-436. **Open access.**
 
