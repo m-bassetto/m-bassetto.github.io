@@ -3,8 +3,14 @@
 ### [Monetary/Fiscal Interaction with Forty Budget Constraints](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with Gherardo Caracciolo)
 Working Paper, Federal Reserve Bank of Minneapolis,  no. 788
 
-### [A Ramsey Theory of Financial Distortions](https://www.ifs.org.uk/publications/15314) (joint with Wei Cui)
-IFS Working Paper W21/05
+### [A Ramsey Theory of Financial Distortions](https://doi.org/10.1086/729446) (joint with Wei Cui)
+*Journal of Political Economy*, forthcoming.
+
+An older version is available as [Federal Reserve Bank of Minneapolis Staff Report no. 643](https://doi.org/10.21034/sr.643)
+
+[Replication Data](https://doi.org/10.7910/DVN/KWPPHV)
+
+[Online Appendix](/research/financialrepression/Online_Appendix_Ramsey_financial_distortion.pdf)
 
 ### [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376) (joint with Zhen Huo and Jose-Victor Rios-Rull)
 NBER Working Paper no. 25376
