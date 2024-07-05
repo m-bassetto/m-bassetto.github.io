@@ -93,7 +93,7 @@ An earlier version is available as [Federal Reserve Bank of Minneapolis Discussi
 ### [Government Investment and the European Stability and Growth Pact](http://www.chicagofed.org/digital_assets/publications/economic_perspectives/2007/ep_3qtr2007_part2_Bassetto_etal.pdf) (joint with Vadym Lepetyuk)
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n.3, pp.33-43. **Open access.**
 
-A more complete version is available as [NBER Working Paper n. 13200](https://www.nber.org/papers/13200), 2007.
+A more complete version is available as [NBER Working Paper n. 13200](https://www.nber.org/papers/w13200), 2007.
 
 [Code](https://m-bassetto.github.io/research/software/gsp/softwaregsp/)
 
