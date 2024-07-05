@@ -12,7 +12,7 @@
 ### [Credit Crunches and Credit Allocation in a Model of Entrepreneurship](http://ideas.repec.org/c/red/ccodes/14-53.html) (joint with Marco Cagetti and Mariacristina De Nardi)
 *Review of Economic Dynamics*, special issue on Money, Credit, and Financial Frictions, 2015, vol. 18, n.1., pp.53-76.
 
-### [Optimal Fiscal Policy with Heterogeneous Agents](http://www.qeconomics.org/upcoming/362/QE362_code_and_data.zip)
+### [Optimal Fiscal Policy with Heterogeneous Agents](http://qeconomics.org/supp/362/code_and_data.zip)
 *Quantitative Economics*, 2014, vol. 5, n.3, pp. 675-704.
 
 ### [Tax Riots](/research/software/riots/softwareriots) (joint with Christopher Phelan)
