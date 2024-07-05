@@ -95,6 +95,8 @@ An earlier version is available as [Federal Reserve Bank of Minneapolis Discussi
 
 A more complete version is available as [NBER Working Paper n. 13200](http://www.nber.org/papers/13200), 2007.
 
+[Code](https://m-bassetto.github.io/research/software/gsp/softwaregsp/)
+
 ### [Redistribution, Taxes, and the Median Voter](http://dx.doi.org/10.1016/j.red.2006.02.001) (joint with Jess Benhabib)
 *Review of Economic Dynamics*, 2006, vol.9, n.2, pp.211-223.
 
