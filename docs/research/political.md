@@ -48,6 +48,8 @@ Free to download using the link above.
 
 An earlier version is available as [Federal Reserve Bank of Minneapolis Discussion Paper n. 133](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=793), 1999.
 
+[Code](https://m-bassetto.github.io/research/software/olg/softwareolg/)
+
 ### [Government Investment and the European Stability and Growth Pact](http://www.chicagofed.org/digital_assets/publications/economic_perspectives/2007/ep_3qtr2007_part2_Bassetto_etal.pdf) (joint with Vadym Lepetyuk)
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n.3, pp.33-43. **Open access.**
 
