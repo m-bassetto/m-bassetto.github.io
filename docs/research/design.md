@@ -40,6 +40,8 @@ An older version is available as [Working Paper, Federal Reserve Bank of Chicago
 
 A slightly older version is available as Working Paper, Federal Reserve Bank of Chicago, 2006 n.4.
 
+[Code](https://m-bassetto.github.io/research/software/riots/softwareriots/)
+
 ### [Fiscal Theory of the Price Level](http://dx.doi.org/10.1057/9780230226203.0580)
 
 *The New Palgrave Dictionary of Economics*, 2008, edited by Steven N. Durlauf and Lawrence E. Blume.
