@@ -1,5 +1,8 @@
 ## Papers dealing with policy design, including the fiscal theory of the price level
 
+### [On the Mechanics of Fiscal Inflations](https://doi.org/10.21034/qr.4421) (joint with Luca Benzoni and Jason Hall)
+*Quarterly Review*, Federal Reserve Bank of Minneapolis, 2024, vol. 44, pp. 2-14.
+
 ### [A Monetary-Fiscal Theory of Sudden Inflations](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with David S. Miller)
 Staff Report, Federal Reserve Bank of Minneapolis,  no. 641
 
