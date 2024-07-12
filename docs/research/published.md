@@ -9,6 +9,9 @@ An older version is available as [Federal Reserve Bank of Minneapolis Staff Repo
 
 [Online Appendix](/research/financialrepression/Online_Appendix_Ramsey_financial_distortion.pdf)
 
+### [On the Mechanics of Fiscal Inflations](https://doi.org/10.21034/qr.4421) (joint with Luca Benzoni and Jason Hall)
+*Quarterly Review*, Federal Reserve Bank of Minneapolis, 2024, vol. 44, pp. 2-14.
+
 ### [Discussion of ‘Fiscal Federalism and Monetary Unions’ by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://doi.org/10.1016/j.jmoneco.2023.10.005) (joint with Jason Hall)
 *Journal of Monetary Economics*, 2024, vol. 141, pp. 178-183.
 
