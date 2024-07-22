@@ -1,6 +1,6 @@
 ## Marco Bassetto - Published papers
 
-### Institution Building without Commitment (joint with Zhen Huo and Jose-Victor Rios-Rull)
+### Institution Building without Commitment (joint with Zhen Huo and Jos&#233;-V&#237;ctor R&#237;os-Rull)
 *American Economic Review*, forthcoming.
 
 A much older version is available as [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376), NBER Working Paper no. 25376
