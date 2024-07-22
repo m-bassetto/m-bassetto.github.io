@@ -1,5 +1,10 @@
 ## Marco Bassetto - Published papers
 
+### Institution Building without Commitment (joint with Zhen Huo and Jose-Victor Rios-Rull)
+*American Economic Review*, forthcoming.
+
+A much older version is available as [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376), NBER Working Paper no. 25376
+
 ### [A Ramsey Theory of Financial Distortions](https://doi.org/10.1086/729446) (joint with Wei Cui)
 *Journal of Political Economy*, forthcoming.
 
