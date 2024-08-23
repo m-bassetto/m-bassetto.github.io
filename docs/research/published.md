@@ -6,7 +6,7 @@
 A much older version is available as [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376), NBER Working Paper no. 25376
 
 ### [A Ramsey Theory of Financial Distortions](https://doi.org/10.1086/729446) (joint with Wei Cui)
-*Journal of Political Economy*, forthcoming.
+*Journal of Political Economy*, 2024, vol. 132, pp. 2612-2654.
 
 An older version is available as [Federal Reserve Bank of Minneapolis Staff Report no. 643](https://doi.org/10.21034/sr.643)
 
