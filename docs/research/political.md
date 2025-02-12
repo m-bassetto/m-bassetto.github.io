@@ -12,10 +12,14 @@ An older version is available as [Federal Reserve Bank of Minneapolis Staff Repo
 
 [Online Appendix](/research/financialrepression/Online_Appendix_Ramsey_financial_distortion.pdf)
 
-### Institution Building without Commitment (joint with Zhen Huo and Jos&#233;-V&#237;ctor R&#237;os-Rull)
-*American Economic Review*, forthcoming.
+### [Institution Building without Commitment](https://doi.org/10.1257/aer.20201365) (joint with Zhen Huo and Jos&#233;-V&#237;ctor R&#237;os-Rull)
+*American Economic Review*, 2024, vol. 114, pp.3427-3468.
 
 A much older version is available as [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376), NBER Working Paper no. 25376
+
+[Replication Package](https://doi.org/10.3886/E201421V1)
+
+[Online Appendix](https://www.aeaweb.org/doi/10.1257/aer.20201365.appx)
 
 ### [Mobility, Population Growth, and Public Capital Spending in the United States](https://doi.org/10.1016/j.red.2021.02.014) (joint with Leslie McGranahan)
 *Review of Economic Dynamics*, 2021, vol. 41, pp. 255-277. Special issue in honor of Alejandro Justiniano.
