@@ -6,6 +6,8 @@ in progress
 ### [A Monetary-Fiscal Theory of Sudden Inflations](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with David S. Miller)
 Staff Report, Federal Reserve Bank of Minneapolis,  no. 641
 
+[Replication Package](https://doi.org/10.7910/DVN/3S5HL0)
+
 ### [Monetary/Fiscal Interaction with Forty Budget Constraints](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with Gherardo Caracciolo)
 Working Paper, Federal Reserve Bank of Minneapolis,  no. 788
 
