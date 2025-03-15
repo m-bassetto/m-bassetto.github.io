@@ -8,7 +8,7 @@ Staff Report, Federal Reserve Bank of Minneapolis,  no. 641
 
 [Replication Package](https://doi.org/10.7910/DVN/3S5HL0)
 
-### [Monetary/Fiscal Interaction with Forty Budget Constraints](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (joint with Gherardo Caracciolo)
+### [Monetary/Fiscal Interaction with Forty Budget Constraints](https://www.minneapolisfed.org/research/working-papers/monetaryfiscal-interactions-with-forty-budget-constraints)) (joint with Gherardo Caracciolo)
 Working Paper, Federal Reserve Bank of Minneapolis,  no. 788
 
 ### [The Interplay Between Financial Conditions and Monetary Policy Shocks](https://www.chicagofed.org/publications/working-papers/2016/wp2016-11) (joint with Luca Benzoni and Trevor Serrao)
