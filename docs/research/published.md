@@ -80,7 +80,7 @@ An older version is available as [Working Paper, Federal Reserve Bank of Chicago
 ### [What is the Relationship between Large Deficits and Inflation in Industrialized Countries?](https://www.chicagofed.org/publications/economic-perspectives/2010/3qbassetto-butters) (joint with R. Andrew Butters)
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2010, vol. 34, n.3, pp.83-100. **Open access.**
 
-### [The Research Agenda: Marco Bassetto on the Quantitative Evaluation of Fiscal Policy Rules](https://www.economicdynamics.org/newsletter-april-2009/)
+### [The Research Agenda: Marco Bassetto on the Quantitative Evaluation of Fiscal Policy Rules](https://web.archive.org/web/20220629222516/https://www.economicdynamics.org/newsletter-april-2009/)
 *Economic Dynamics Newsletter*, 2009, vol. 10, n.2. **Open access.**
 
 ### [Tax Riots](http://dx.doi.org/10.1111/j.1467-937X.2008.00484.x) (joint with Christopher Phelan)
@@ -142,5 +142,8 @@ This is a more detailed version of the paper published in the
 
 ### [A Game-Theoretic View of the Fiscal Theory of the Price Level](http://www.jstor.org/stable/3081984)
 *Econometrica*, 2002, vol. 70., n.6, pp.2167-2195; an earlier version is available as Federal Reserve Bank of Minneapolis Working Paper no. 612, 2001.
+
+### [Rischi di Cambio e di Inflazione in un Problema di Scelta di Portafoglio (Exchange Rate and Inflation Risks in Portfolio Choices, in Italian with English abstract](https://www.byterfly.eu/islandora/object/librib:1087815/datastream/PDF/content/librib_1087815.pdf#page=103))
+*Rivista Internazionale di Scienze Economiche e Commerciali*, 1991, vol. 38, n.10-11, pp.949-968. (This is based on my second-year undergraduate paper; it is an image file and loads very slowly)
 
 ### [Software code used in the papers above](/research/software/software)
