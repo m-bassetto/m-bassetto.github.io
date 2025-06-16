@@ -23,4 +23,7 @@ Working Paper, Federal Reserve Bank of Chicago,  no. 2016-11
 ### [What is the Relationship between Large Deficits and Inflation in Industrialized Countries?](https://www.chicagofed.org/publications/economic-perspectives/2010/3qbassetto-butters) (joint with R. Andrew Butters)
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2010, vol. 34, n.3, pp.83-100. **Open access.**
 
+### [Rischi di Cambio e di Inflazione in un Problema di Scelta di Portafoglio (Exchange Rate and Inflation Risks in Portfolio Choices, in Italian with English abstract](https://www.byterfly.eu/islandora/object/librib:1087815/datastream/PDF/content/librib_1087815.pdf#page=103))
+*Rivista Internazionale di Scienze Economiche e Commerciali*, 1991, vol. 38, n.10-11, pp.949-968. (This is based on my second-year undergraduate paper; it is an image file and loads very slowly)
+
 ### [Software code used in the papers above](/research/software/software)
