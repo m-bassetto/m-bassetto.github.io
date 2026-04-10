@@ -1,31 +1,45 @@
 ## Marco Bassetto - Software needed to reproduce the results in my papers
 
-### [A Ramsey Theory of Financial Distortions](https://doi.org/10.7910/DVN/KWPPHV) (joint with Wei Cui)
-*Journal of Political Economy*, forthcoming.
+### [A Monetary-Fiscal Theory of Sudden Inflations](https://doi.org/10.7910/DVN/3S5HL0) (joint with David S. Miller)
 
-### [Discussion of ‘Fiscal Federalism and Monetary Unions’ by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://users.nber.org/~bassetto/software/carnegierochesterdiscussion/lqeconomy_algebra.nb) (joint with Jason Hall)
+*Quarterly Journal of Economics*, 2025, vol. 140, pp. 1959-2000.
+
+### [A Ramsey Theory of Financial Distortions](https://doi.org/10.7910/DVN/KWPPHV) (joint with Wei Cui)
+
+*Journal of Political Economy*, 2024, vol. 132, pp. 2612-2654.
+
+### [Discussion of 'Fiscal Federalism and Monetary Unions' by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://users.nber.org/~bassetto/software/carnegierochesterdiscussion/lqeconomy_algebra.nb) (joint with Jason Hall)
+
 *Journal of Monetary Economics*, 2024, vol. 141, pp. 178-183.
 
 ### [Mobility, Population Growth, and Public Capital Spending in the United States](https://ideas.repec.org/c/red/ccodes/20-27.html) (joint with Leslie McGranahan)
-*Review of Economic Dynamics of Monetary Economics*, 2021, vol. 41, pp. 255-277. Special issue in honor of Alejandro Justiniano.
+
+*Review of Economic Dynamics*, 2021, vol. 41, pp. 255-277. Special issue in honor of Alejandro Justiniano.
 
 ### [Credit Crunches and Credit Allocation in a Model of Entrepreneurship](http://ideas.repec.org/c/red/ccodes/14-53.html) (joint with Marco Cagetti and Mariacristina De Nardi)
+
 *Review of Economic Dynamics*, special issue on Money, Credit, and Financial Frictions, 2015, vol. 18, n.1., pp.53-76.
 
 ### [Optimal Fiscal Policy with Heterogeneous Agents](http://qeconomics.org/supp/362/code_and_data.zip)
+
 *Quantitative Economics*, 2014, vol. 5, n.3, pp. 675-704.
 
-### [Tax Riots](/research/software/riots/softwareriots) (joint with Christopher Phelan)
+### [Tax Riots](https://m-bassetto.github.io/research/software/riots/softwareriots) (joint with Christopher Phelan)
+
 *Review of Economic Studies*, 2008, vol. 75, n.3, pp.649-669.
 
-### [Political Economy of Taxation in an Overlapping-Generations Economy](/research/software/olg/softwareolg)
+### [Political Economy of Taxation in an Overlapping-Generations Economy](https://m-bassetto.github.io/research/software/olg/softwareolg)
+
 *Review of Economic Dynamics*, 2008, vol. 11, n.1, pp.18-43.
 
-### [Government Investment and the European Stability and Growth Pact](/research/software/gsp/softwaregsp) (joint with Vadym Lepetyuk)
-*Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n.3, pp.33-43. 
+### [Government Investment and the European Stability and Growth Pact](https://m-bassetto.github.io/research/software/gsp/softwaregsp) (joint with Vadym Lepetyuk)
 
-### [Politics and Efficiency of Separating Capital and Ordinary Government Budgets](/research/software/budget/softwarebudget) (Marco Bassetto with Thomas J. Sargent)
+*Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n.3, pp.33-43.
+
+### [Politics and Efficiency of Separating Capital and Ordinary Government Budgets](https://m-bassetto.github.io/research/software/budget/softwarebudget) (Marco Bassetto with Thomas J. Sargent)
+
 *Quarterly Journal of Economics*, 2006, vol. 121, n.4, pp.1167-1210.
 
-### [Equilibrium and Government Commitment](/research/software/commit/softwarecommit)
-*Journal of Economic Theory*, 2005, vol. 124, n.1, pp.79-105. 
+### [Equilibrium and Government Commitment](https://m-bassetto.github.io/research/software/commit/softwarecommit)
+
+*Journal of Economic Theory*, 2005, vol. 124, n.1, pp.79-105.
