@@ -1,6 +1,6 @@
 ## Marco Bassetto - Drafts of work in progress
 
-### A Theory of Gradual Liberalization and Retrenchment (joint with Zhen Huo and José-Víctor Ríos-Rull)
+### A Theory of Gradual Trade Liberalization and Retrenchment (joint with Zhen Huo and José-Víctor Ríos-Rull)
 
 in progress
 
