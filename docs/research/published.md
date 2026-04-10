@@ -12,7 +12,7 @@ An older version is available as [Staff Report, Federal Reserve Bank of Minneapo
 
 *American Economic Review*, 2024, vol. 114, pp.3427-3468.
 
-A much older version is available as [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376), NBER Working Paper no. 25376 (note: the title and some content differ from the published version)
+A much older version is available as [Organizational Equilibrium with Capital](https://www.nber.org/papers/w25376), NBER Working Paper no. 25376 
 
 [Replication Package](https://doi.org/10.3886/E201421V1)
 
