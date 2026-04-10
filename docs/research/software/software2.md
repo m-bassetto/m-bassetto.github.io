@@ -4,6 +4,10 @@
 
 *Quarterly Journal of Economics*, 2025, vol. 140, pp. 1959-2000.
 
+### [Institution Building without Commitment](https://doi.org/10.3886/E201421V1) (joint with Zhen Huo and José-Víctor Ríos-Rull)
+
+*American Economic Review*, 2024, vol. 114, pp. 3427-3468.
+
 ### [A Ramsey Theory of Financial Distortions](https://doi.org/10.7910/DVN/KWPPHV) (joint with Wei Cui)
 
 *Journal of Political Economy*, 2024, vol. 132, pp. 2612-2654.
