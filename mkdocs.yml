@@ -9,10 +9,6 @@ theme:
   features:
     - navigation.top
     - search.highlight
-
-extra_css:
-  - extra.css
-
 nav:
   - Home: index.md
   - Curriculum Vitae: files/cv.pdf
