@@ -202,11 +202,11 @@ An earlier version (with some typos) is available as Working Paper, Federal Rese
 **[On the Irrelevance of Government Debt when Taxes are Distortionary](http://dx.doi.org/doi:10.1016/j.jmoneco.2002.12.001)** (joint with Narayana Kocherlakota)
 
 *Journal of Monetary Economics*, 2004, vol. 51, n. 2, pp. 299–304.  
-[[Preprint]](ricardo/debtirr.pdf)
+[[Preprint]](https://m-bassetto.github.io/research/ricardo/debtirr.pdf)
 
 ---
 
-**[Negative Nominal Interest Rates](files/negrates.pdf)**
+**[Negative Nominal Interest Rates](https://m-bassetto.github.io/research/negrates/negrates.pdf)**
 
 [[Published version: *American Economic Review (Papers and Proceedings)*, May 2004, vol. 94, n. 2, pp. 104–108.]](http://www.jstor.org/stable/3592865) (Link above is to a more detailed version.)
 
