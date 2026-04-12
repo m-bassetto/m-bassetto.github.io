@@ -82,7 +82,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Forward Guidance: Communication, Commitment, or Both?](https://doi.org/10.1016/j.jmoneco.2019.08.015)**
 
 *Journal of Monetary Economics*, 2019, vol. 108, pp. 69–86.  
-[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2019/2019-05) (this version contains some typos) · [[Online Appendix]](files/onlineappendix.pdf)
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2019/2019-05) (this version contains some typos) · [[Online Appendix]](ulysses/onlineappendix.pdf)
 
 ---
 
