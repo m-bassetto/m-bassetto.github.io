@@ -115,7 +115,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Optimal Fiscal Policy with Heterogeneous Agents](http://onlinelibrary.wiley.com/doi/10.3982/QE362/abstract)**
 
 *Quantitative Economics*, 2014, vol. 5, n. 3, pp. 675–704. **Open access.**  
-[[Working Paper]](files/combinedwpversion.pdf) (contains material not in the published version) · [[Replication Package]](http://qeconomics.org/supp/362/code_and_data.zip) · [[Online Appendix]](https://qeconomics.org/supp/362/supplement.pdf)
+[[Working Paper]](opttax/combinedwpversion.pdf) (contains material not in the published version) · [[Replication Package]](http://qeconomics.org/supp/362/code_and_data.zip) · [[Online Appendix]](https://qeconomics.org/supp/362/supplement.pdf)
 
 ---
 
