@@ -10,11 +10,14 @@ theme:
     - navigation.top
     - search.highlight
 
+hide:
+  - toc
+
 nav:
   - Home: index.md
   - Curriculum Vitae: files/cv.pdf
-  - Research: research/research.md
-  - Research by Topic:
+  - Research: 
+    - Full List: research/research.md
     - Government Policy Design: research/design.md
     - Political Economy and Optimal Taxation: research/political.md
     - Expository Pieces: research/expository.md
