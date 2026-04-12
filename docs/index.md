@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Marco Bassetto
 
 <img src="images/Bassetto1.JPG" alt="Marco Bassetto" style="float: right; margin: 0 0 1em 2em; width: 180px; border-radius: 4px;">
