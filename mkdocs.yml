@@ -16,9 +16,4 @@ extra_css:
 nav:
   - Home: index.md
   - Curriculum Vitae: files/cv.pdf
-  - Research: 
-    - Full List: research/research.md
-    - Government Policy Design: research/design.md
-    - Political Economy and Optimal Taxation: research/political.md
-    - Expository Pieces: research/expository.md
-    - Miscellaneous Topics: research/misc.md
+  - Research: research/research.md
