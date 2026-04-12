@@ -1,13 +1,21 @@
 site_name: Marco Bassetto
-site_url: https://m-bassetto.github.io
-nav:
-    - Home: index.md
-    - Curriculum Vitae: files/cv.pdf
-    - Research: research/index.md
-    - Courses:
-        - 8702 Monetary Economics: teaching/8702/8702.md
-        
+site_url: https://m-bassetto.github.io/
+docs_dir: docs
 theme:
-    name: cinder
-    
-extra_css: [extra.css]
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Curriculum Vitae: files/cv.pdf
+  - Research: research/research.md
+  - Research by Topic:
+    - Government Policy Design: research/design.md
+    - Political Economy and Optimal Taxation: research/political.md
+    - Expository Pieces: research/expository.md
+    - Miscellaneous Topics: research/misc.md
