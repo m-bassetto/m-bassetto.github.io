@@ -35,7 +35,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[A Monetary-Fiscal Theory of Sudden Inflations](https://doi.org/10.1093/qje/qjaf012)** (joint with David S. Miller)
 
 *Quarterly Journal of Economics*, 2025, vol. 140, pp. 1959–2000.  
-[[Working Paper]](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) · [[Replication Package]](https://doi.org/10.7910/DVN/3S5HL0)
+[[Working Paper]](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) (older version) · [[Replication Package]](https://doi.org/10.7910/DVN/3S5HL0)
 
 ---
 
@@ -49,7 +49,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[A Ramsey Theory of Financial Distortions](https://doi.org/10.1086/729446)** (joint with Wei Cui)
 
 *Journal of Political Economy*, 2024, vol. 132, pp. 2612–2654.  
-[[Working Paper]](https://doi.org/10.21034/sr.643) · [[Replication Package]](https://doi.org/10.7910/DVN/KWPPHV) · [[Online Appendix]](files/Online_Appendix_Ramsey_financial_distortion.pdf)
+[[Working Paper]](https://doi.org/10.21034/sr.643) (older version) · [[Replication Package]](https://doi.org/10.7910/DVN/KWPPHV) · [[Online Appendix]](files/Online_Appendix_Ramsey_financial_distortion.pdf)
 
 ---
 
@@ -69,7 +69,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Mobility, Population Growth, and Public Capital Spending in the United States](https://doi.org/10.1016/j.red.2021.02.014)** (joint with Leslie McGranahan)
 
 *Review of Economic Dynamics*, 2021, vol. 41, pp. 255–277. Special issue in honor of Alejandro Justiniano.  
-[[Working Paper]](https://www.nber.org/papers/w16970) · [[Replication Package]](https://ideas.repec.org/c/red/ccodes/20-27.html) · [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S1094202521000181-mmc1.pdf)
+[[Working Paper]](https://www.nber.org/papers/w16970) (significantly older version)· [[Replication Package]](https://ideas.repec.org/c/red/ccodes/20-27.html) · [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S1094202521000181-mmc1.pdf)
 
 ---
 
@@ -82,14 +82,14 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Forward Guidance: Communication, Commitment, or Both?](https://doi.org/10.1016/j.jmoneco.2019.08.015)**
 
 *Journal of Monetary Economics*, 2019, vol. 108, pp. 69–86.  
-[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2019/2019-05) · [[Online Appendix]](files/onlineappendix.pdf)
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2019/2019-05) (this version contains some typos) · [[Online Appendix]](files/onlineappendix.pdf)
 
 ---
 
 **[Is Inflation Default? The Role of Information in Debt Crises](https://doi.org/10.1257/aer.20170721)** (joint with Carlo Galli)
 
 *American Economic Review*, 2019, vol. 109, pp. 3556–3584.  
-[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2017/wp2017-06)
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2017/wp2017-06) (older version)
 
 ---
 
@@ -146,41 +146,42 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Tax Riots](http://dx.doi.org/10.1111/j.1467-937X.2008.00484.x)** (joint with Christopher Phelan)
 
 *Review of Economic Studies*, 2008, vol. 75, n. 3, pp. 649–669.  
-[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2006/wp2006-04) · [[Code]](research/software/riots/softwareriots/)
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2006/wp2006-04) (slightly older version) · [[Code]](research/software/riots/softwareriots/)
 
 ---
 
 **[Fiscal Theory of the Price Level](http://dx.doi.org/10.1057/9780230226203.0580)**
 
 *The New Palgrave Dictionary of Economics*, 2008, edited by Steven N. Durlauf and Lawrence E. Blume.  
-[[Author's manuscript]](files/ftheorypost.pdf)
+[[Author's original manuscript]](files/ftheorypost.pdf): this article is taken from the author's original manuscript and has not been reviewed or edited. Reproduced with permission.
 
 ---
 
 **[Political Economy of Taxation in an Overlapping-Generations Economy](http://dx.doi.org/10.1016/j.red.2007.06.002)**
 
 *Review of Economic Dynamics*, 2008, vol. 11, n. 1, pp. 18–43.  
-[[Working Paper]](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy) · [[Code]](research/software/olg/softwareolg/)
+[[Working Paper]](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy) (older version) · [[Code]](research/software/olg/softwareolg/)
 
 ---
 
 **[Government Investment and the European Stability and Growth Pact](http://www.chicagofed.org/digital_assets/publications/economic_perspectives/2007/ep_3qtr2007_part2_Bassetto_etal.pdf)** (joint with Vadym Lepetyuk)
 
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n. 3, pp. 33–43. **Open access.**  
-[[Working Paper]](https://www.nber.org/papers/w13200) · [[Code]](research/software/gsp/softwaregsp/)
+[[Working Paper]](https://www.nber.org/papers/w13200) (more complete version) · [[Code]](research/software/gsp/softwaregsp/)
 
 ---
 
 **[Redistribution, Taxes, and the Median Voter](http://dx.doi.org/10.1016/j.red.2006.02.001)** (joint with Jess Benhabib)
 
-*Review of Economic Dynamics*, 2006, vol. 9, n. 2, pp. 211–223.
+*Review of Economic Dynamics*, 2006, vol. 9, n. 2, pp. 211–223.  
+An earlier version (with some typos) is available as Working Paper, Federal Reserve Bank of Chicago, 2006 n.2.
 
 ---
 
 **[Politics and Efficiency of Separating Capital and Ordinary Government Budgets](http://www.jstor.org/stable/25098824)** (joint with Thomas J. Sargent)
 
 *Quarterly Journal of Economics*, 2006, vol. 121, n. 4, pp. 1167–1210.  
-[[Working Paper]](http://papers.nber.org/papers/W11030) · [[Code]](research/software/budget/softwarebudget/)
+[[Working Paper]](http://papers.nber.org/papers/W11030) (older version) · [[Code]](research/software/budget/softwarebudget/)
 
 ---
 
@@ -193,7 +194,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Equilibrium and Government Commitment](http://dx.doi.org/doi:10.1016/j.jet.2004.06.001)**
 
 *Journal of Economic Theory*, 2005, vol. 124, n. 1, pp. 79–105.  
-[[Working Paper]](http://minneapolisfed.org/research/wp/wp624.html) · [[Code]](research/software/commit/softwarecommit/)
+[[Working Paper]](http://minneapolisfed.org/research/wp/wp624.html) (older version) · [[Code]](research/software/commit/softwarecommit/)
 
 ---
 
@@ -206,19 +207,21 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 
 **[Negative Nominal Interest Rates](files/negrates.pdf)**
 
-*American Economic Review (Papers and Proceedings)*, May 2004, vol. 94, n. 2, pp. 104–108. (Link is to a more detailed version.)
+[[Published version: *American Economic Review (Papers and Proceedings)*, May 2004, vol. 94, n. 2, pp. 104–108.]](http://www.jstor.org/stable/3592865) (Link above is to a more detailed version.)
 
 ---
 
 **[A Game-Theoretic View of the Fiscal Theory of the Price Level](http://www.jstor.org/stable/3081984)**
 
-*Econometrica*, 2002, vol. 70, n. 6, pp. 2167–2195.
+*Econometrica*, 2002, vol. 70, n. 6, pp. 2167–2195.  
+An earlier version is available as Federal Reserve Bank of Minneapolis Working Paper no. 612, 2001.
 
 ---
 
 **[Rischi di Cambio e di Inflazione in un Problema di Scelta di Portafoglio](https://www.byterfly.eu/islandora/object/librib:1087815/datastream/PDF/content/librib_1087815.pdf#page=103)** (Exchange Rate and Inflation Risks in Portfolio Choices, in Italian with English abstract)
 
-*Rivista Internazionale di Scienze Economiche e Commerciali*, 1991, vol. 38, n. 10–11, pp. 949–968. (Image file, loads slowly.)
+*Rivista Internazionale di Scienze Economiche e Commerciali*, 1991, vol. 38, n. 10–11, pp. 949–968.  
+(This is based on my second-year undergraduate paper; it is an image file and loads very slowly)
 
 ---
 
