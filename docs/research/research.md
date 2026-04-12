@@ -49,7 +49,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[A Ramsey Theory of Financial Distortions](https://doi.org/10.1086/729446)** (joint with Wei Cui)
 
 *Journal of Political Economy*, 2024, vol. 132, pp. 2612–2654.  
-[[Working Paper]](https://doi.org/10.21034/sr.643) (older version) · [[Replication Package]](https://doi.org/10.7910/DVN/KWPPHV) · [[Online Appendix]](files/Online_Appendix_Ramsey_financial_distortion.pdf)
+[[Working Paper]](https://doi.org/10.21034/sr.643) (older version) · [[Replication Package]](https://doi.org/10.7910/DVN/KWPPHV) · [[Online Appendix]](files/research/financialrepression/Online_Appendix_Ramsey_financial_distortion.pdf)
 
 ---
 
