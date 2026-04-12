@@ -202,7 +202,7 @@ An earlier version (with some typos) is available as Working Paper, Federal Rese
 **[On the Irrelevance of Government Debt when Taxes are Distortionary](http://dx.doi.org/doi:10.1016/j.jmoneco.2002.12.001)** (joint with Narayana Kocherlakota)
 
 *Journal of Monetary Economics*, 2004, vol. 51, n. 2, pp. 299–304.  
-[[Preprint]](files/debtirr.pdf)
+[[Preprint]](ricardo/debtirr.pdf)
 
 ---
 
