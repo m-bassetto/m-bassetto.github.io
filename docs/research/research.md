@@ -195,7 +195,7 @@ An earlier version (with some typos) is available as Working Paper, Federal Rese
 **[Equilibrium and Government Commitment](http://dx.doi.org/doi:10.1016/j.jet.2004.06.001)**
 
 *Journal of Economic Theory*, 2005, vol. 124, n. 1, pp. 79–105.  
-[[Working Paper]](http://minneapolisfed.org/research/wp/wp624.html) (older version) · [[Code]](research/software/commit/softwarecommit/)
+[[Working Paper]](http://minneapolisfed.org/research/wp/wp624.html) (older version) · [[Code]](https://m-bassetto.github.io/research/software/commit/softwarecommit/)
 
 ---
 
