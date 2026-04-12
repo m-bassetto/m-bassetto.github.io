@@ -146,7 +146,7 @@ Working Paper, Federal Reserve Bank of Minneapolis, no. 788
 **[Tax Riots](http://dx.doi.org/10.1111/j.1467-937X.2008.00484.x)** (joint with Christopher Phelan)
 
 *Review of Economic Studies*, 2008, vol. 75, n. 3, pp. 649–669.  
-[[Code]](/research/software/riots/softwareriots/)  
+[[Code]](https://m-bassetto.github.io/research/software/riots/softwareriots/)  
 A slightly older version is available as Working Paper, Federal Reserve Bank of Chicago, 2006 n.4.
 
 ---
