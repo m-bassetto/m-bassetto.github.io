@@ -161,7 +161,7 @@ A slightly older version is available as Working Paper, Federal Reserve Bank of 
 **[Political Economy of Taxation in an Overlapping-Generations Economy](http://dx.doi.org/10.1016/j.red.2007.06.002)**
 
 *Review of Economic Dynamics*, 2008, vol. 11, n. 1, pp. 18–43.  
-[[Working Paper]](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy) (older version) · [[Code]](research/software/olg/softwareolg/)
+[[Working Paper]](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy) (older version) · [[Code]](software/olg/softwareolg/)
 
 ---
 
