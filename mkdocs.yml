@@ -10,8 +10,8 @@ theme:
     - navigation.top
     - search.highlight
 
-hide:
-  - toc
+extra_css:
+  - extra.css
 
 nav:
   - Home: index.md
