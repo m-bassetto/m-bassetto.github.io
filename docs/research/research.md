@@ -168,7 +168,7 @@ A slightly older version is available as Working Paper, Federal Reserve Bank of 
 **[Government Investment and the European Stability and Growth Pact](http://www.chicagofed.org/digital_assets/publications/economic_perspectives/2007/ep_3qtr2007_part2_Bassetto_etal.pdf)** (joint with Vadym Lepetyuk)
 
 *Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n. 3, pp. 33–43. **Open access.**  
-[[Working Paper]](https://www.nber.org/papers/w13200) (more complete version) · [[Code]](research/software/gsp/softwaregsp/)
+[[Working Paper]](https://www.nber.org/papers/w13200) (more complete version) · [[Code]](https://m-bassetto.github.io/research/software/gsp/softwaregsp/)
 
 ---
 
