@@ -234,4 +234,4 @@ Working Paper, Federal Reserve Bank of Chicago, no. 2016-11
 
 ---
 
-**[Public Investment and Budget Rules for State vs. Local Governments](files/statevslocal.pdf)**
+**[Public Investment and Budget Rules for State vs. Local Governments](https://m-bassetto.github.io/research/statevslocal/statevslocal.pdf)**
