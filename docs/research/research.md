@@ -1,0 +1,233 @@
+# Research
+
+*Browse by topic:* [Government Policy Design](design.md) · [Political Economy and Optimal Taxation](political.md) · [Expository Pieces](expository.md) · [Miscellaneous Topics](misc.md)
+
+---
+
+## Work in Progress
+
+**A Theory of Gradual Liberalization and Retrenchment** (joint with Zhen Huo and José-Víctor Ríos-Rull)
+
+in progress
+
+---
+
+**Time-Consistent Policy with Pre-Tax or Post-Tax Retirement Accounts** (joint with Jason Hall)
+
+in progress
+
+---
+
+**[The Role of Dispersed Information in Maintaining Low Interest Rates](https://www.minneapolisfed.org/research/staff-reports/the-role-of-dispersed-information-in-maintaining-low-interest-rates)** (joint with Carlo Galli and Jason Hall)
+
+Staff Report, Federal Reserve Bank of Minneapolis, no. 680
+
+---
+
+**[Monetary/Fiscal Interactions with Forty Budget Constraints](https://www.minneapolisfed.org/research/working-papers/monetaryfiscal-interactions-with-forty-budget-constraints)** (joint with Gherardo Caracciolo)
+
+Working Paper, Federal Reserve Bank of Minneapolis, no. 788
+
+---
+
+## Published Papers
+
+**[A Monetary-Fiscal Theory of Sudden Inflations](https://doi.org/10.1093/qje/qjaf012)** (joint with David S. Miller)
+
+*Quarterly Journal of Economics*, 2025, vol. 140, pp. 1959–2000.  
+[[Working Paper]](https://www.minneapolisfed.org/research/staff-reports/a-monetary-fiscal-theory-of-sudden-inflations) · [[Replication Package]](https://doi.org/10.7910/DVN/3S5HL0)
+
+---
+
+**[Institution Building without Commitment](https://doi.org/10.1257/aer.20201365)** (joint with Zhen Huo and José-Víctor Ríos-Rull)
+
+*American Economic Review*, 2024, vol. 114, pp. 3427–3468.  
+[[Working Paper]](https://www.nber.org/papers/w25376) (older version, titled *Organizational Equilibrium with Capital*) · [[Replication Package]](https://doi.org/10.3886/E201421V1) · [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/aer.20201365.appx)
+
+---
+
+**[A Ramsey Theory of Financial Distortions](https://doi.org/10.1086/729446)** (joint with Wei Cui)
+
+*Journal of Political Economy*, 2024, vol. 132, pp. 2612–2654.  
+[[Working Paper]](https://doi.org/10.21034/sr.643) · [[Replication Package]](https://doi.org/10.7910/DVN/KWPPHV) · [[Online Appendix]](files/Online_Appendix_Ramsey_financial_distortion.pdf)
+
+---
+
+**[On the Mechanics of Fiscal Inflations](https://doi.org/10.21034/qr.4421)** (joint with Luca Benzoni and Jason Hall)
+
+*Quarterly Review*, Federal Reserve Bank of Minneapolis, 2024, vol. 44, pp. 2–14.
+
+---
+
+**[Discussion of 'Fiscal Federalism and Monetary Unions' by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://doi.org/10.1016/j.jmoneco.2023.10.005)** (joint with Jason Hall)
+
+*Journal of Monetary Economics*, 2024, vol. 141, pp. 178–183.  
+[[Code]](https://users.nber.org/~bassetto/software/carnegierochesterdiscussion/lqeconomy_algebra.nb)
+
+---
+
+**[Mobility, Population Growth, and Public Capital Spending in the United States](https://doi.org/10.1016/j.red.2021.02.014)** (joint with Leslie McGranahan)
+
+*Review of Economic Dynamics*, 2021, vol. 41, pp. 255–277. Special issue in honor of Alejandro Justiniano.  
+[[Working Paper]](https://www.nber.org/papers/w16970) · [[Replication Package]](https://ideas.repec.org/c/red/ccodes/20-27.html) · [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S1094202521000181-mmc1.pdf)
+
+---
+
+**[Shotgun Wedding: Fiscal and Monetary Policy](http://www.annualreviews.org/eprint/DSZHUICTFBV55IMICWNJ/full/10.1146/annurev-economics-091319-050022)** (joint with Thomas J. Sargent)
+
+*Annual Review of Economics*, 2020, vol. 12, pp. 659–690. **Open access** via the link above.
+
+---
+
+**[Forward Guidance: Communication, Commitment, or Both?](https://doi.org/10.1016/j.jmoneco.2019.08.015)**
+
+*Journal of Monetary Economics*, 2019, vol. 108, pp. 69–86.  
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2019/2019-05) · [[Online Appendix]](files/onlineappendix.pdf)
+
+---
+
+**[Is Inflation Default? The Role of Information in Debt Crises](https://doi.org/10.1257/aer.20170721)** (joint with Carlo Galli)
+
+*American Economic Review*, 2019, vol. 109, pp. 3556–3584.  
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2017/wp2017-06)
+
+---
+
+**[The Fiscal Theory of the Price Level in a World of Low Interest Rates](https://doi.org/10.1016/j.jedc.2018.01.006)** (joint with Wei Cui)
+
+*Journal of Economic Dynamics and Control*, 2018, vol. 89, pp. 5–22 (lead article). Special Fed St. Louis–JEDC–SCG–SNB–UniBern Conference issue.
+
+---
+
+**[Speculative Runs on Interest Rate Pegs](http://dx.doi.org/10.1016/j.jmoneco.2015.03.002)** (joint with Christopher Phelan)
+
+*Journal of Monetary Economics*, 2015, vol. 73, pp. 99–114. **Open access.**
+
+---
+
+**[Credit Crunches and Credit Allocation in a Model of Entrepreneurship](http://dx.doi.org/10.1016/j.red.2014.08.003)** (joint with Marco Cagetti and Mariacristina De Nardi)
+
+*Review of Economic Dynamics*, 2015, vol. 18, n. 1, pp. 53–76. Special issue on Money, Credit, and Financial Frictions. **Open access.**  
+[[Replication Package]](http://ideas.repec.org/c/red/ccodes/14-53.html)
+
+---
+
+**[Optimal Fiscal Policy with Heterogeneous Agents](http://onlinelibrary.wiley.com/doi/10.3982/QE362/abstract)**
+
+*Quantitative Economics*, 2014, vol. 5, n. 3, pp. 675–704. **Open access.**  
+[[Working Paper]](files/combinedwpversion.pdf) (contains material not in the published version) · [[Replication Package]](http://qeconomics.org/supp/362/code_and_data.zip) · [[Online Appendix]](https://qeconomics.org/supp/362/supplement.pdf)
+
+---
+
+**[Fiscal Consequences of Paying Interest on Reserves](http://dx.doi.org/10.1111/j.1475-5890.2013.12014.x)** (joint with Todd Messer)
+
+*Fiscal Studies*, 2013, vol. 34, n. 4, pp. 413–436. **Open access.**
+
+---
+
+**[Forecasting Inflation and the Great Recession](http://www.chicagofed.org/webpages/publications/economic_perspectives/2013/3q_bassetto_messer_ostrowski.cfm)** (joint with Todd Messer and Christine Ostrowski)
+
+*Economic Perspectives*, Federal Reserve Bank of Chicago, 2013, vol. 37, n. 3, pp. 79–106. **Open access.**
+
+---
+
+**[What is the Relationship between Large Deficits and Inflation in Industrialized Countries?](https://www.chicagofed.org/publications/economic-perspectives/2010/3qbassetto-butters)** (joint with R. Andrew Butters)
+
+*Economic Perspectives*, Federal Reserve Bank of Chicago, 2010, vol. 34, n. 3, pp. 83–100. **Open access.**
+
+---
+
+**[The Research Agenda: Marco Bassetto on the Quantitative Evaluation of Fiscal Policy Rules](https://web.archive.org/web/20220629222516/https://www.economicdynamics.org/newsletter-april-2009/)**
+
+*Economic Dynamics Newsletter*, 2009, vol. 10, n. 2. **Open access.**
+
+---
+
+**[Tax Riots](http://dx.doi.org/10.1111/j.1467-937X.2008.00484.x)** (joint with Christopher Phelan)
+
+*Review of Economic Studies*, 2008, vol. 75, n. 3, pp. 649–669.  
+[[Working Paper]](https://www.chicagofed.org/publications/working-papers/2006/wp2006-04) · [[Code]](research/software/riots/softwareriots/)
+
+---
+
+**[Fiscal Theory of the Price Level](http://dx.doi.org/10.1057/9780230226203.0580)**
+
+*The New Palgrave Dictionary of Economics*, 2008, edited by Steven N. Durlauf and Lawrence E. Blume.  
+[[Author's manuscript]](files/ftheorypost.pdf)
+
+---
+
+**[Political Economy of Taxation in an Overlapping-Generations Economy](http://dx.doi.org/10.1016/j.red.2007.06.002)**
+
+*Review of Economic Dynamics*, 2008, vol. 11, n. 1, pp. 18–43.  
+[[Working Paper]](https://www.minneapolisfed.org/research/discussion-papers/political-economy-of-taxation-in-an-overlappinggenerations-economy) · [[Code]](research/software/olg/softwareolg/)
+
+---
+
+**[Government Investment and the European Stability and Growth Pact](http://www.chicagofed.org/digital_assets/publications/economic_perspectives/2007/ep_3qtr2007_part2_Bassetto_etal.pdf)** (joint with Vadym Lepetyuk)
+
+*Economic Perspectives*, Federal Reserve Bank of Chicago, 2007, vol. 31, n. 3, pp. 33–43. **Open access.**  
+[[Working Paper]](https://www.nber.org/papers/w13200) · [[Code]](research/software/gsp/softwaregsp/)
+
+---
+
+**[Redistribution, Taxes, and the Median Voter](http://dx.doi.org/10.1016/j.red.2006.02.001)** (joint with Jess Benhabib)
+
+*Review of Economic Dynamics*, 2006, vol. 9, n. 2, pp. 211–223.
+
+---
+
+**[Politics and Efficiency of Separating Capital and Ordinary Government Budgets](http://www.jstor.org/stable/25098824)** (joint with Thomas J. Sargent)
+
+*Quarterly Journal of Economics*, 2006, vol. 121, n. 4, pp. 1167–1210.  
+[[Working Paper]](http://papers.nber.org/papers/W11030) · [[Code]](research/software/budget/softwarebudget/)
+
+---
+
+**[Fiscal Policy and Price Stability: the Case of Italy 1992–98](http://www.chicagofed.org/webpages/publications/chicago_fed_letter/2006/december_233.cfm)**
+
+*Chicago Fed Letter*, 2006, n. 233. **Open access.**
+
+---
+
+**[Equilibrium and Government Commitment](http://dx.doi.org/doi:10.1016/j.jet.2004.06.001)**
+
+*Journal of Economic Theory*, 2005, vol. 124, n. 1, pp. 79–105.  
+[[Working Paper]](http://minneapolisfed.org/research/wp/wp624.html) · [[Code]](research/software/commit/softwarecommit/)
+
+---
+
+**[On the Irrelevance of Government Debt when Taxes are Distortionary](http://dx.doi.org/doi:10.1016/j.jmoneco.2002.12.001)** (joint with Narayana Kocherlakota)
+
+*Journal of Monetary Economics*, 2004, vol. 51, n. 2, pp. 299–304.  
+[[Preprint]](files/debtirr.pdf)
+
+---
+
+**[Negative Nominal Interest Rates](files/negrates.pdf)**
+
+*American Economic Review (Papers and Proceedings)*, May 2004, vol. 94, n. 2, pp. 104–108. (Link is to a more detailed version.)
+
+---
+
+**[A Game-Theoretic View of the Fiscal Theory of the Price Level](http://www.jstor.org/stable/3081984)**
+
+*Econometrica*, 2002, vol. 70, n. 6, pp. 2167–2195.
+
+---
+
+**[Rischi di Cambio e di Inflazione in un Problema di Scelta di Portafoglio](https://www.byterfly.eu/islandora/object/librib:1087815/datastream/PDF/content/librib_1087815.pdf#page=103)** (Exchange Rate and Inflation Risks in Portfolio Choices, in Italian with English abstract)
+
+*Rivista Internazionale di Scienze Economiche e Commerciali*, 1991, vol. 38, n. 10–11, pp. 949–968. (Image file, loads slowly.)
+
+---
+
+## Dormant Projects
+
+**[The Interplay Between Financial Conditions and Monetary Policy Shocks](https://www.chicagofed.org/publications/working-papers/2016/wp2016-11)** (joint with Luca Benzoni and Trevor Serrao)
+
+Working Paper, Federal Reserve Bank of Chicago, no. 2016-11
+
+---
+
+**[Public Investment and Budget Rules for State vs. Local Governments](files/statevslocal.pdf)**
