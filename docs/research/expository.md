@@ -6,7 +6,7 @@ Full details for all papers are on the [main research page](research.md).
 
 **[Shotgun Wedding: Fiscal and Monetary Policy](http://www.annualreviews.org/eprint/DSZHUICTFBV55IMICWNJ/full/10.1146/annurev-economics-091319-050022)** (joint with Thomas J. Sargent) — *Annual Review of Economics, 2020*
 
-**[Monetary and Fiscal Policy Rules and their Interaction](files/bassettomonetaryfiscalinteraction.pdf)** — Unpublished monograph, 2016
+**[Monetary and Fiscal Policy Rules and their Interaction](https://m-bassetto.github.io/teaching/3029/files/bassettomonetaryfiscalinteraction.pdf)** — Unpublished monograph, 2016
 
 **[Fiscal Consequences of Paying Interest on Reserves](http://dx.doi.org/10.1111/j.1475-5890.2013.12014.x)** (joint with Todd Messer) — *Fiscal Studies, 2013*
 
