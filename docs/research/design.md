@@ -35,6 +35,6 @@ Full details for all papers are on the [main research page](research.md).
 
 **[On the Irrelevance of Government Debt when Taxes are Distortionary](http://dx.doi.org/doi:10.1016/j.jmoneco.2002.12.001)** (joint with Narayana Kocherlakota) — *JME, 2004*
 
-**[Negative Nominal Interest Rates](files/negrates.pdf)** — *AER P&P, 2004*
+**[Negative Nominal Interest Rates](http://www.jstor.org/stable/3592865)** — *AER P&P, 2004*
 
 **[A Game-Theoretic View of the Fiscal Theory of the Price Level](http://www.jstor.org/stable/3081984)** — *Econometrica, 2002*
