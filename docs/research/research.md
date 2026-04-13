@@ -154,7 +154,7 @@ A slightly older version is available as Working Paper, Federal Reserve Bank of 
 **[Fiscal Theory of the Price Level](http://dx.doi.org/10.1057/9780230226203.0580)**
 
 *The New Palgrave Dictionary of Economics*, 2008, edited by Steven N. Durlauf and Lawrence E. Blume.  
-[[Author's original manuscript]](https://m-bassetto.github.io/palgrave/ftheorypost.pdf): this article is taken from the author's original manuscript and has not been reviewed or edited. Reproduced with permission.
+[[Author's original manuscript]](https://m-bassetto.github.io/research/palgrave/ftheorypost.pdf): this article is taken from the author's original manuscript and has not been reviewed or edited. Reproduced with permission.
 
 ---
 
