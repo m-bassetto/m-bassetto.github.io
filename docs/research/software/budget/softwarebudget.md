@@ -55,7 +55,7 @@ Common files:
 
 [writelog.f90](code/common18/writelog.f90) subroutines to print and visualize the output
 
-The code for the linear case is in Matlab. It is composed of a singlle file for each of the experiments; the only difference across experiments are the parameter values.
+The code for the linear case is in Matlab. It is composed of a single file for each of the experiments; the only difference across experiments are the parameter values.
 
 Experiment 1: [hetprob.m](code/0flatillinois/hetprob.m)
 
