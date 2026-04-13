@@ -14,6 +14,8 @@ Full details for all papers are on the [main research page](research.md).
 
 **[Institution Building without Commitment](https://doi.org/10.1257/aer.20201365)** (joint with Zhen Huo and José-Víctor Ríos-Rull) — *AER, 2024*
 
+**[Discussion of 'Fiscal Federalism and Monetary Unions' by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino](https://doi.org/10.1016/j.jmoneco.2023.10.005)** (joint with Jason Hall) - *JME, 2024*
+
 **[Mobility, Population Growth, and Public Capital Spending in the United States](https://doi.org/10.1016/j.red.2021.02.014)** (joint with Leslie McGranahan) — *RED, 2021*
 
 **[Shotgun Wedding: Fiscal and Monetary Policy](http://www.annualreviews.org/eprint/DSZHUICTFBV55IMICWNJ/full/10.1146/annurev-economics-091319-050022)** (joint with Thomas J. Sargent) — *Annual Review of Economics, 2020*
