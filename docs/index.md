@@ -14,7 +14,7 @@ hide:
 90 Hennepin Avenue  
 Minneapolis, MN 55401  
 
-email: [uctpmba@gmail.com](mailto:uctpmba@gmail.com)
+email: [bassetto@rice.edu](mailto:bassetto@rice.edu)
 
 ---
 
