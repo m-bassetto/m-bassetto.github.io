@@ -7,12 +7,15 @@ hide:
 
 <img src="images/Bassetto1.JPG" alt="Marco Bassetto" style="float: right; margin: 0 0 1em 2em; width: 180px; border-radius: 4px;">
 
-### [Economic Research](https://www.minneapolisfed.org/economic-research)
+### [Department of Economics](https://economics.rice.edu/)
 
-### [Federal Reserve Bank of Minneapolis](http://www.minneapolisfed.org/)
+### [Rice University](http://www.rice.edu/)
 
-90 Hennepin Avenue  
-Minneapolis, MN 55401  
+Department of Economics - MS 22<br>
+Rice University<br>
+P.O. Box 1892<br>
+Houston, TX 77005<br>
+Office: Kraft Hall 455
 
 email: [bassetto@rice.edu](mailto:bassetto@rice.edu)
 
